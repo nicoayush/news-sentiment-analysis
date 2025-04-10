@@ -1,0 +1,11 @@
+streamlit
+pandas
+matplotlib
+statsmodels
+ntscraper
+transformers
+Pillow
+requests
+beautifulsoup4
+numpy
+torch
